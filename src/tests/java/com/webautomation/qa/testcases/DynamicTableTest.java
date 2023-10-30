@@ -44,13 +44,7 @@ public class DynamicTableTest extends Base {
             e.printStackTrace();
         }
 	}
-//	
-//	@AfterMethod
-//	public void tearDown() {
-//		
-//		driver.quit();
-//		
-//	}
+
 	
 
 	@Test(priority = 1)
