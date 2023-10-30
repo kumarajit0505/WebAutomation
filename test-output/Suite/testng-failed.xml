@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="DynamicTableTest(failed)">
+    <classes>
+      <class name="com.webautomation.qa.testcases.DynamicTableTest">
+        <methods>
+          <include name="enterDataAndAssert"/>
+        </methods>
+      </class> <!-- com.webautomation.qa.testcases.DynamicTableTest -->
+    </classes>
+  </test> <!-- DynamicTableTest(failed) -->
+</suite> <!-- Failed suite [Suite] -->
